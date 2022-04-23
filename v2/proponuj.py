@@ -12,5 +12,6 @@ def aktywahej():
         print("Inwestuj w orlen")
     elif x <= 2000:
         print("mieszkanie najlepsza inwestycja")
-
+    else:
+        print("Otwórz hodowle jedwabników")
 
